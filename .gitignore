@@ -1,0 +1,5 @@
+# Large video assets (download separately)
+grid-video/public/*.mp4
+grid-video/public/bgm.mp3
+grid-video/out/
+.DS_Store
