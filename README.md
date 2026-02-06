@@ -4,7 +4,7 @@ Video showcase built with [Remotion](https://remotion.dev) and [Midscene.js](htt
 
 ## Demo
 
-https://github.com/quanru/midscene-remotion-showcase/raw/main/four-grid-v2.mp4
+https://github.com/quanru/midscene-remotion-showcase/releases/download/v1.0/four-grid-v2.mp4
 
 ## Features
 
