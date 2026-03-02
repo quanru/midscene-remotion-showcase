@@ -96,7 +96,7 @@ videos.forEach((_, i) => {
   cursor += videoFrames[i];
 });
 
-export const COMBINED_DURATION = cursor;
+export const PLATFORM_SHOWCASE_DURATION = cursor;
 
 // ============ 平台介绍卡片 ============
 const PlatformCard: React.FC<{
@@ -492,7 +492,7 @@ const VideoSegment: React.FC<{
 };
 
 // ============ 主合成 ============
-export const CombinedVideo = () => {
+export const PlatformShowcase = () => {
   return (
     <AbsoluteFill style={{ background: "#000" }}>
       <Audio src={staticFile("bgm.mp3")} volume={0.5} />

@@ -1,2 +1,5 @@
 # Large video assets (download separately)
 .DS_Store
+node_modules
+dist
+out
